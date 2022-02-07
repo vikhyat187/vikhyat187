@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikhyat Bhatnagar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikhyat187&label=Profile%20views&color=0e75b6&style=flat" alt="vikhyat187" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **DSA skills**
 
-- 🌱 I’m currently learning **android and web**
+- 🌱 I’m currently working as **Programmer Analyst Intern@ Jumbotail**
 
-- 👯 I’m looking to collaborate on **android,web projects and blockchain**
+- 👯 I’m looking to collaborate on **Spring projects, Frontend - ReactJS**
 
 - 📫 How to reach me **vikhyatbhatnagarh@gmail.com**
 
