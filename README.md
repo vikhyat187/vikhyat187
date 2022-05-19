@@ -11,7 +11,7 @@
 <p>
 
 - Working as Programmer Analyst Intern @ <a href="https://jumbotail.com">Jumbotail.</a> 
-- Graduate in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓
+- Final year Graduate in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓
 - Looking for opportunities and collaborations in the field of Backend. ✅
 - Love studying about system design topics.
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
