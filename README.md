@@ -79,15 +79,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikhyat187&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vikhyat187&theme=chartreuse-dark" />
 </p>  
-
-<a href="https://gitstalk.netlify.app/vikhyat187/" target="_blank"> See My Latest Activities Here</a>
-  
-
-<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikhyat-bhatnagar/?_l=en_US)
-<br><br>
+<br>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
