@@ -1,33 +1,93 @@
-<h1 align="center">Hi 👋, I'm Vikhyat Bhatnagar</h1>
-<h3 align="center">A passionate Software developer from India. I love interacting with people learning new technologies, working on system design problems.</h3>
+<h1 align="center">Hey there, I'm Vikhyat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikhyat187&label=Profile%20views&color=0e75b6&style=flat" alt="vikhyat187" /> </p>
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikhyat187" alt="vikhyat187" /></a> </p> -->
+<h3 align="center">Backend Enthusiast, Problem Solver and Life-Long Learner</h3>
 
-- 🔭 I’m currently working on **DSA skills, System design **
+## Dynamic Quotes 📜:
+![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
 
-- 🌱 I’m currently working as **Programmer Analyst Intern@ Jumbotail**
+<br>
+<b> "Greatest quality to be successful is to have curiosity."</b>
 
-- 👯 I’m looking to collaborate on **Spring projects, Frontend - ReactJS**
+<p>
 
-- 📫 How to reach me **vikhyatbhatnagarh@gmail.com**
+- Working as Programmer Analyst Intern @ <a href="https://jumbotail.com">Jumbotail.</a> 
+- Graduate in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓
+- Looking for opportunities and collaborations in the field of Backend. ✅
+- Love studying about system design topics.
+- Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikhyat-bhatnagar-1402b7196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vikhyat-bhatnagar-1402b7196/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Interests:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikhyat187&show_icons=true&locale=en&layout=compact" alt="vikhyat187" /></p>
+- Backend
+- Data Structures And Algorithms 💻
+- Database 
+- Scalable systems
+- Devops
+- LLD
+- HLD
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikhyat187&show_icons=true&locale=en" alt="vikhyat187" /></p>
+<h3 align="left">Languages:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikhyat187&" alt="vikhyat187" /></p>
+- English 🔤
+- Hindi
 
+
+<br>
+
+## **Tech Toolbox🧰**
+
+
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
+<a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"> <img src="https://img.shields.io/badge/DynamoDB-FCC624?style=for-the-badge&logo=DynamoDB&logoColor=orange" alt="DynamoDB"/> </a>
+<a href="https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a#:~:text=The%20Postman%20API%20allows%20you,use%20Postman%20to%20send%20requests." target="_blank"> <img src="https://img.shields.io/badge/Postman-FCC624?style=for-the-badge&logo=Postman&logoColor=blue" alt="Postman"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://img.shields.io/badge/Kafka-FCC624?style=for-the-badge&logo=Kafka&logoColor=white" alt="Kafka"/> </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.shields.io/badge/SpringBoot-FCC624?style=for-the-badge&logo=SpringBoot&logoColor=white" alt="SpringBoot"/> </a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/AWS-FCC624?style=for-the-badge&logo=AWS&logoColor=white" alt="AWS"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/Inteliij-FCC624?style=for-the-badge&logo=Inteliij&logoColor=white" alt="Inteliij"/> </a>
+
+  
+## &#x1f4c8; My GitHub Stats🎯
+ 
+<h3 align="left">Profile Views: 🧐</h3>
+  
+![Profile views](https://gpvc.arturio.dev/vikhyat187)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikhyat187&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+<details><summary>Contribution Graph</summary>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=vikhyat187&theme=chartreuse-dark&no-frame=true" /></p>
+</details>
+
+  
+<details><summary>Trophies</summary>
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=vikhyat187&column=7&theme=gruvbox&no-frame=true"/>
+</details>
+  
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikhyat187&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vikhyat187&theme=chartreuse-dark" />
+</p>  
+
+<a href="https://gitstalk.netlify.app/vikhyat187/" target="_blank"> See My Latest Activities Here</a>
+  
+
+<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
+<div>
+<h2  > Connect with me</h2>
+  
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikhyat-bhatnagar/?_l=en_US)
+<br><br>
+
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
