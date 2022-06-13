@@ -15,7 +15,8 @@
 - Looking for opportunities and collaborations in the field of Backend. ✅
 - Love studying about system design topics.
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-
+- Trying to learn UI design / MERN stack in free time.
+  
 </p>
 
 <h3 align="left">Interests:</h3>
