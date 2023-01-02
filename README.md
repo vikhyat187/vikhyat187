@@ -2,20 +2,17 @@
 
 <h3 align="center">Backend Enthusiast, Problem Solver and Life-Long Learner</h3>
 
-## Dynamic Quotes 📜:
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
-
 <br>
 <b> "Greatest quality to be successful is to have curiosity."</b>
 
 <p>
 
-- Working as Programmer Analyst Intern @ <a href="https://jumbotail.com">Jumbotail.</a> 
-- Final year Graduate in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓
+- Working as Programmer Analyst @ <a href="https://jumbotail.com">Jumbotail.</a> 
+- Graduated in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓
 - Looking for opportunities and collaborations in the field of Backend. ✅
 - Love studying about system design topics.
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
-- Trying to learn UI design / MERN stack in free time.
+- Trying to learn UI design / exploring security concepts.
   
 </p>
 
