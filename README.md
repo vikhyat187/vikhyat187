@@ -8,7 +8,7 @@
 <p>
 
 - Working as Programmer Analyst @ <a href="https://jumbotail.com">Jumbotail.</a> 
-- Graduated in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓
+- Graduated in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓 In 2022
 - Looking for opportunities and collaborations in the field of Backend. ✅
 - Love studying about system design topics.
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
