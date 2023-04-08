@@ -59,28 +59,13 @@
   
 ![Profile views](https://gpvc.arturio.dev/vikhyat187)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikhyat187&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/vikhyat187/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vikhyat187&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vikhyat's github stats" /></a> | <a href="https://github.com/vikhyat187/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikhyat187&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=vikhyat187&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
-
-  
-<details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=vikhyat187&column=7&theme=gruvbox&no-frame=true"/>
-</details>
-  
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikhyat187&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vikhyat187&theme=chartreuse-dark" />
-</p>  
+ 
 <div>
 <h2  > Connect with me</h2>
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikhyat-bhatnagar/?_l=en_US)
 <br>
 
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
