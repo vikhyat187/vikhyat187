@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Vikhyat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">Backend Enthusiast, Problem Solver and Life-Long Learner</h3>
+<h3 align="center">Backend Enthusiast, Open Source developer, Problem Solver and Life-Long Learner</h3>
 
 <br>
 <b> "Greatest quality to be successful is to have curiosity."</b>
@@ -8,6 +8,7 @@
 <p>
 
 - Working as Programmer Analyst @ <a href="https://jumbotail.com">Jumbotail.</a> 
+- In my free time, I try exploring new things in software engineering and brainstorming on new ideas.
 - Graduated in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓 In 2022
 - Looking for opportunities and collaborations in the field of Backend. ✅
 - Love studying about system design topics.
@@ -22,6 +23,7 @@
 - Data Structures And Algorithms 💻
 - Database 
 - Scalable systems
+- Infrastructure
 - Devops
 - LLD
 - HLD
@@ -38,10 +40,8 @@
 
 
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
-<a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
+<a href="https://go.dev/" target="_blank"> <img src="https://img.shields.io/badge/Go-ED8B00?style=for-the-badge&logo=Go&logoColor=white" alt="Go"/> </a> <br>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
