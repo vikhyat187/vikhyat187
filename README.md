@@ -68,4 +68,3 @@
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikhyat-bhatnagar/?_l=en_US)
 <br>
-
