@@ -7,7 +7,7 @@
 
 <p>
 
-- Working as Programmer Analyst @ <a href="https://jumbotail.com">Jumbotail.</a> 
+- Working as Software Engineer @ <a href="https://jumbotail.com">Jumbotail.</a> 
 - In my free time, I try exploring new things in software engineering and brainstorming on new ideas.
 - Graduated in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓 In 2022
 - Looking for opportunities and collaborations in the field of Backend. ✅
