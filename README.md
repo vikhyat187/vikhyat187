@@ -9,10 +9,9 @@
 
 - Working as Software Engineer @ <a href="https://jumbotail.com">Jumbotail.</a> 
 - In my free time, I try exploring new things in software engineering and brainstorming on new ideas.
+- I spend my free time in [Real dev Squad](https://realdevsquad.com/)
 - Graduated in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓 In 2022
 - Looking for opportunities and collaborations in the field of Backend. ✅
-- Love studying about system design topics.
-- Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 - Trying to learn UI design / exploring security concepts.
   
 </p>
