@@ -54,13 +54,7 @@
   
 ## &#x1f4c8; My GitHub Stats🎯
  
-<h3 align="left">Profile Views: 🧐</h3>
-  
-![Profile views](https://gpvc.arturio.dev/vikhyat187)
-
-| <a href="https://github.com/vikhyat187/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vikhyat187&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vikhyat's github stats" /></a> | <a href="https://github.com/vikhyat187/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikhyat187&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
+<a href="https://github.com/vikhyat187/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vikhyat187&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vikhyat's github stats" /></a>  
  
 <div>
 <h2  > Connect with me</h2>
