@@ -7,7 +7,7 @@
 
 <p>
 
-- Working as Software Engineer @ <a href="https://jumbotail.com">Jumbotail.</a> 
+- Working as Software Engineer @ <a href="https://www.payufin.in">PayU Finance.</a> 
 - In my free time, I try exploring new things in software engineering and brainstorming on new ideas.
 - I spend my free time in [Real dev Squad](https://realdevsquad.com/)
 - Graduated in Computer Science & Engineering @ Malla Reddy College of Engineering and Technology. 🎓 In 2022
